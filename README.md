@@ -1,26 +1,194 @@
 <h1 align="center">English Language Notes</h1>
 
-- [Vocabulary and Pronunciation:](#vocabulary-and-pronunciation)
-  - [Alphabet:](#alphabet)
-  - [Name of 7 Days:](#name-of-7-days)
-  - [Name of 12 Months:](#name-of-12-months)
-  - [Numbers:](#numbers)
-  - [Animals:](#animals)
-  - [Birds:](#birds)
-  - [Fish:](#fish)
-  - [Insects:](#insects)
-  - [Fruits:](#fruits)
-  - [Vegetables:](#vegetables)
-  - [Foods:](#foods)
-  - [Human Body:](#human-body)
 
-# Vocabulary and Pronunciation:
+- [1. American Pronunciation:](#1-american-pronunciation)
+  - [1.1. The American T Sound:](#11-the-american-t-sound)
+  - [1.2. The American R Sound:](#12-the-american-r-sound)
+- [2. Basic Vocabulary with Pronunciation:](#2-basic-vocabulary-with-pronunciation)
+  - [2.1. Alphabet:](#21-alphabet)
+  - [2.2. Name of 7 Days:](#22-name-of-7-days)
+  - [2.3. Name of 12 Months:](#23-name-of-12-months)
+  - [2.4. Numbers:](#24-numbers)
+  - [2.5. Animals:](#25-animals)
+  - [2.6. Birds:](#26-birds)
+  - [2.7. Fish:](#27-fish)
+  - [2.8. Insects:](#28-insects)
+  - [2.9. Fruits:](#29-fruits)
+  - [2.10. Vegetables:](#210-vegetables)
+  - [2.11. Foods:](#211-foods)
+  - [2.12. Human Body:](#212-human-body)
 
-Note: For better pronunciation follow this websites: 
-- https://elsaspeak.com/en/learn-english/how-to-pronounce
-- https://www.oxfordlearnersdictionaries.com/definition/english
 
-## Alphabet:
+**Note:** For better pronunciation follow this websites: 
+1. https://elsaspeak.com/en/learn-english/how-to-pronounce
+2. https://www.oxfordlearnersdictionaries.com/definition/english
+
+
+# 1. American Pronunciation:
+
+## 1.1. The American T Sound: 
+
+- Rule 1: T Between Vowels Often Becomes D: 
+
+| word        | Pronunciation   |
+| ----------- | --------------- |
+| water       | wa-der          |
+| city        | ci-dy           |
+| pretty      | pri-dy          |
+| better      | bed-er          |
+| later       | lay-der         |
+| waiter      | way-der         |
+| daughter    | daw-der         |
+| computer    | com-pyu-der     |
+| meeting     | mee-ding        |
+| eating      | ee-ding         |
+| writing     | ry-ding         |
+| waiting     | way-ding        |
+| dating      | day-ding        |
+| voting      | vo-ding         |
+| getting     | ge-ding         |
+| putting     | pu-ding         |
+| cutting     | cu-ding         |
+| fighting    | fy-ding         |
+| noticing    | no-di-sing      |
+| twenty      | twen-dy         |
+| forty       | for-dy          |
+| fifty       | fif-dy          |
+| eighty      | ay-dy           |
+| ninety      | nine-dy         |
+| data        | day-da          |
+| tomato      | to-may-do       |
+| potato      | po-tay-do       |
+| metal       | me-dl           |
+| total       | to-dl           |
+| hospital    | hos-pi-dl       |
+| capital     | cap-i-dl        |
+| quality     | qua-li-dy       |
+| reality     | ree-al-i-dy     |
+| ability     | a-bil-i-dy      |
+| community   | com-mu-ni-dy    |
+| opportunity | op-por-tu-ni-dy |
+
+
+- Rule 2: Double T Often Sounds Like D:
+
+| word      | Pronunciation |
+| --------- | ------------- |
+| little    | lid-dle       |
+| bottle    | bod-dle       |
+| butter    | bud-der       |
+| matter    | ma-der        |
+| letter    | led-der       |
+| better    | bed-er        |
+| setter    | sed-er        |
+| bitter    | bid-er        |
+| cutter    | cud-er        |
+| hotter    | hod-er        |
+| pretty    | pri-dy        |
+| committee | co-mi-dee     |
+| sitting   | sid-ding      |
+| getting   | ge-ding       |
+| putting   | pu-ding       |
+| letting   | le-ding       |
+| betting   | be-ding       |
+| chatting  | cha-ding      |
+| fitting   | fi-ding       |
+| written   | rid-en        |
+| kitten    | ki-den        |
+| button    | buh-n         |
+| mountain  | moun-n        |
+| curtain   | cur-n         |
+| fountain  | foun-n        |
+
+
+
+## 1.2. The American R Sound:
+American English is rhotic, meaning Americans pronounce the R sound almost everywhere.
+
+| Word       | Pronunciation |
+| ---------- | ------------- |
+| car        | kar           |
+| far        | far           |
+| star       | star          |
+| bar        | bar           |
+| hard       | hard          |
+| card       | kard          |
+| park       | park          |
+| work       | werk          |
+| four       | for           |
+| door       | dor           |
+| floor      | flor          |
+| more       | mor           |
+| poor       | por           |
+| bear       | ber           |
+| care       | ker           |
+| hair       | her           |
+| fire       | fy-er         |
+| tire       | ty-er         |
+| hear       | heer          |
+| near       | neer          |
+| first      | ferst         |
+| girl       | gerl          |
+| bird       | berd          |
+| word       | werd          |
+| world      | werld         |
+| turn       | tern          |
+| learn      | lern          |
+| work       | werk          |
+| worker     | wer-ker       |
+| person     | per-son       |
+| service    | ser-vis       |
+| perfect    | per-fect      |
+| market     | mar-ket       |
+| large      | larj          |
+| party      | par-tee       |
+| course     | kors          |
+| force      | fors          |
+| short      | short         |
+| sport      | sport         |
+| north      | north         |
+| her        | her           |
+| term       | term          |
+| serve      | serv          |
+| heard      | herd          |
+| person     | per-son       |
+| certain    | ser-tin       |
+| early      | er-lee        |
+| thirty     | ther-dee      |
+| thirty-one | ther-dee-wun  |
+| thirteen   | ther-teen     |
+| bird       | berd          |
+| word       | werd          |
+| work       | werk          |
+| world      | werld         |
+| nurse      | ners          |
+| shirt      | shert         |
+| hurt       | hert          |
+| turn       | tern          |
+| burn       | bern          |
+| learn      | lern          |
+| very       | ve-ree        |
+| sorry      | sa-ree        |
+| carry      | ke-ree        |
+| marry      | me-ree        |
+| orange     | or-inj        |
+| around     | a-round       |
+| arrive     | a-rive        |
+| direction  | di-rec-shun   |
+| correct    | co-rect       |
+| parent     | pair-ent      |
+| area       | air-ee-a      |
+| serious    | seer-ee-us    |
+| period     | peer-ee-ud    |
+| story      | stor-ee       |
+| memory     | mem-er-ee     |
+
+
+
+
+# 2. Basic Vocabulary with Pronunciation:
+
+## 2.1. Alphabet:
 
 | Col 1      | Col 2      | Col 3   | Col 4   | Col 5   | Col 6       | Col 7  |
 | ---------- | ---------- | ------- | ------- | ------- | ----------- | ------ |
@@ -34,7 +202,7 @@ Note:
 - F, V (😁): উপরের দাঁত নিচের ঠোঁটের সাথে মিশিয়ে পড়তে হবে।
 
 
-## Name of 7 Days:
+## 2.2. Name of 7 Days:
 - Saturday = স্যাডারডেই
 - Sunday = সানডেই 
 - Monday = মানডেই
@@ -48,7 +216,7 @@ For Practice:
 - Holiday = হলিডেই, Today = ঠুডেই, Yesterday = ইয়েস্টারডেই, Display = ডিসপ্লেই, Okay = ঔখেই  
 
 
-## Name of 12 Months:
+## 2.3. Name of 12 Months:
 - January = জ্যান-ইউ-এরি 
 - February = ফেব-রু-এরি
 - March = মার্চ
@@ -62,7 +230,7 @@ For Practice:
 - November = নৌভেম্বার
 - December = ডিসেম্বার
 
-## Numbers:
+## 2.4. Numbers:
 
 |     |              |           |
 | --- | ------------ | --------- |
@@ -138,7 +306,7 @@ For Practice:
 | one hundred first | 101st | ওয়ান হানড্রেড ফারর্স্ট |
 
 
-## Animals:
+## 2.5. Animals:
 
 | Name             | Pronunciation | Image                                             |
 | ---------------- | ------------- | ------------------------------------------------- |
@@ -187,7 +355,7 @@ For Practice:
 | Frog             | ফ্রগ           |                                                   |
 
 
-## Birds: 
+## 2.6. Birds: 
 | Bird       | American Accent | British Accent |
 | ---------- | --------------- | -------------- |
 | Chicken    | chik-ən         | chik-in        |
@@ -221,7 +389,7 @@ For Practice:
 | Ostrich    | os-trich        | os-trich       |
 | Emu        | ee-myoo         | ee-myoo        |
 
-## Fish: 
+## 2.7. Fish: 
 | Fish                     | American Accent | British Accent |
 | ------------------------ | --------------- | -------------- |
 | Salmon                   | sam-ən          | sam-ən         |
@@ -269,7 +437,7 @@ For Practice:
 | Chanda                   | chan-da         | chan-da        |
 
 
-## Insects: 
+## 2.8. Insects: 
 
 | Insect      | American Accent | British Accent |
 | ----------- | --------------- | -------------- |
@@ -300,7 +468,7 @@ For Practice:
 | Aphid       | ay-fid          | ay-fid         |
 
 
-## Fruits:
+## 2.9. Fruits:
 | Fruit        | American Accent | British Accent |
 | ------------ | --------------- | -------------- |
 | Apple        | ap-əl           | ap-əl          |
@@ -330,7 +498,7 @@ For Practice:
 | Avocado      | av-uh-kah-doh   | av-uh-kah-doh  |
 
 
-## Vegetables: 
+## 2.10. Vegetables: 
 | Vegetable          | American Accent | British Accent |
 | ------------------ | --------------- | -------------- |
 | Potato             | puh-tay-toh     | puh-tah-toh    |
@@ -359,7 +527,7 @@ For Practice:
 | Okra               | oh-kruh         | oh-kruh        |
 | Eggplant (Brinjal) | brin-jəl        | brin-jəl       |
 
-## Foods: 
+## 2.11. Foods: 
 
 | Food           | American Accent                | British Accent         |
 | -------------- | ------------------------------ | ---------------------- |
@@ -456,7 +624,7 @@ For Practice:
 | Borhani        | spiced yogurt drink            | bor-hah-nee            | bor-hah-nee            |
 
 
-## Human Body: 
+## 2.12. Human Body: 
 ![alt text](./assets/images/human-body.png)
 ![alt text](./assets/images/human-body-2.png)
 
